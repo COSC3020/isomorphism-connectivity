@@ -1,6 +1,6 @@
 # Isomorphism
 
-Prove that if two graphs $A$ and $B$ are isomorphic they do \emph{not} have to
+Prove that if two graphs $A$ and $B$ are isomorphic they do *not* have to
 be completely connected. I have started with the formal definition of
 isomorphism below. Add your answer to this markdown file. [This
 page](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
